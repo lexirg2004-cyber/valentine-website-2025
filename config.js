@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#D3C4E3",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#F2EFE9",     // Button color (should stand out against the background)
         buttonHover: "#FFFFFF",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        textColor: "#000000"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/da4g4qtfe/video/upload/v1770667133/Lady_Gaga_Bruno_Mars_-_Die_With_A_Smile_Lyrics_qsk6ke.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                       // Volume level (0.0 to 1.0)
     }
 };
 
